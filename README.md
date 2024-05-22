@@ -29,3 +29,25 @@
 ## Rotas
 
 `npm i react-router-dom`
+
+## Phosphor React
+
+`npm i phosphor-react`
+
+## React Hook Form
+
+`npm i react-hook-form`
+
+## Validações
+
+`npm i zod`
+
+`npm i @hookform/resolvers`
+
+## Data
+
+`npm i date-fns`
+
+## Immer 
+
+`npm i immer`
